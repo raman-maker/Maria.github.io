@@ -1,5 +1,7 @@
 +++
 title = "Publications"
+hascode = true
+tags = ["syntax", "code"]
 +++
 
 ### Research Acheivements
