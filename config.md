@@ -4,7 +4,7 @@ Add here global page variables to use throughout your website.
 +++
 author = "Raman Kumar"
 mintoclevel = 2
-prepath  = "maria.github.io"
+prepath  = "https://github.com/raman-maker/Maria.github.io"
 
 # Add here files or directories that should be ignored by Franklin, otherwise
 # these files might be copied and, if markdown, processed by Franklin which
