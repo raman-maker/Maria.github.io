@@ -10,7 +10,7 @@
 >- Polish Mobility Grant, Fellowship Blancefor-Ludovisi, Stanford University (Oct. 2011 – Nov. 2013).
 >- Della Riccia & PI of the Polish Ministry grants, Jagellonian University, Poland (Jan. 2009- Jun. 2014). 
 
-## Invited talks and seminars: 🚀
+## 👩🏽‍🏫 Invited talks and seminars: 🚀
 > - 16th The Marcel Grossmann Meeting, July 2021; 17th Italian-Korean Symposium,August 2021, Applications of Statistical Methods and Machine Learning, May 2021
 >- POTOR & Space Jam Conferences organized by the Polish Astronomical Society and SSI, online, 2020.
 >- Frascati Workshop & Fulbright Alumni Meeting, Rome, Italy & Konus-Wind Meeting, Russia, 2019.
