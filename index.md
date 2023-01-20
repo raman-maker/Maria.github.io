@@ -22,7 +22,7 @@
 >  I am the discoverer of the so called Dainotti relations in GRB afterglows between the luminosity at the end of the plateau phase, La, and its rest frame duration, Ta, and in GRB prompt-afterglow between La and the peak luminosity of the prompt emission, Lpeak. The first relation indicates that the more luminous the plateau phase is, the shorter its duration, i.e., the more powerful the phenomenon is, the quicker it consumes its energy. The second relation shows that the prompt luminosity is proportional to the luminosity at the end of the plateau phase. An extension of these two relations led to the discovery of a fundamental plane for GRB afterglows. I have since applied these relations in combination with supernovae Type Ia (SNe Ia) and cosmic microwave background radiation (CMB) as cosmological tools. 
 
 
-##  Research paper sites
+## 📰  Research paper sites
 *  [Google Scholar](https://scholar.google.com/citations?user=1NXy7lIAAAAJ&hl=en)
 *  [Inspire HEP] (https://inspirehep.net/authors/1051570)
 *  [ResearchGate](https://www.researchgate.net/profile/Maria-Dainotti)
@@ -35,8 +35,8 @@
 
 
 ~~~
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xI_MRllAqC0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="888" height="500" src="https://www.youtube.com/embed/xI_MRllAqC0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 ~~~
 ~~~
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6Qe0G_McgqY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="888" height="500" src="https://www.youtube.com/embed/6Qe0G_McgqY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 ~~~
