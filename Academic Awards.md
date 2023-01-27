@@ -1,5 +1,6 @@
 
 @def title=" Academic Awards"
+@def tags = ["syntax", "code"]
 
 # Academic awards and membership
 
