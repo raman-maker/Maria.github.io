@@ -7,7 +7,7 @@
 
 > I am originally from a city in South of Italy. After my PhD at the University of Rome La Sapienza in 2008 I moved to Jagiellonian University in 2009 as a research assistant and I have been Visiting Scholar in several places all around the globe. I here mention a few: I was already at RIKEN with the JSPS Fellowship in November 2014-January 2015 in the ABBL group under the direction of Nagataki-san and as a visiting researcher in January and February 2019. I was in US at Stanford University with the Fulbright, Marie Curie’ and the American Astronomical Society Fellowship from 2012-2013, and 2015-2018. In all these years I have been studying Gamma-Ray Bursts, selection biases in treating GRB correlations, their application as cosmological tools and as a tool to discriminate among theoretical physical models. More recently I have started working on machine learning for redshift extraction of GRBs and Active Galactic Nuclei and on the selection effects in SNe cosmology in collaboration with Hatsuda-san and Nagataki-san. Last year I started collaborating with Don Warren and Gilles Ferrand to a project that aims to include virtual reality to show GRBs correlations to a broader audience.
 
-  ## :books:    Research Field : Gamma-Ray Bursts and machine learning    :computer:
+## :books:    Research Field : Gamma-Ray Bursts and machine learning    :computer:
   
 \note{>  - Gamma-ray burst as standardizable candles
 >- Machine Learning techniques applied to Gamma-ray bursts
@@ -24,6 +24,7 @@
 
 ## 📰  Research paper sites
 *  [Google Scholar](https://scholar.google.com/citations?user=1NXy7lIAAAAJ&hl=en)
+*  [arXiv 🙂 ](https://arxiv.org/search/?query=Maria+Giovanna+Dainotti&searchtype=author&abstracts=show&order=-announced_date_first&size=50)
 *  [Inspire HEP] (https://inspirehep.net/authors/1051570)
 *  [ResearchGate](https://www.researchgate.net/profile/Maria-Dainotti)
 
