@@ -4,8 +4,14 @@
 
 # 🪟️ Gamma-ray Astrophysics in the Multi-messenger Context
 ## [🟢 Pro. Elisabetta Bissaldi](http://web2.ba.infn.it/~bissaldi//)
-@@center ![](/assets/Bissaldi.jpg) @@ 
+@@center ![](/assets/Bissaldi.jpg )  @@ 
 
+[Zoom link](https://us02web.zoom.us/j/83555657710)   PWD: 726021
+
+
+~~~
+<iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=1&bgcolor=%23A79B8E&ctz=Asia%2FTokyo&mode=WEEK&src=YmRlc2ltb25lQHVuaXNhLml0&color=%233F51B5" style="border:solid 1px #777" width="800" height="500" frameborder="0" scrolling="no"></iframe>
+~~~
 ### Course content 🗒️
 
 > This course aims to provide the student with advanced knowledge of gamma-ray astrophysics. It will explore the main properties of high-energy gamma-ray emitting sources, in particular Galactic sources like Pulsars and Supernova Remnants, and Extragalactic sources, like Active Galactic Nuclei (AGN) and Gamma-Ray Bursts (GRBs). GRBs also represent transient events, which, like AGN flares or nearby Solar Flares emitted by our Sun, can happen any time and require a strong monitoring strategy by all observatories. A brief overview of the currently operating space- and ground-based instruments and their operating principles will also be given. Finally, the course will focus on the multi-messenger aspect, including the association of short GRBs with gravitational wave events, and the observation of neutrino emission from the direction of known blazars during their flaring activity. It requires a background in basic high-energy astrophysics.
@@ -23,6 +29,7 @@
 ### Assessment methods
 
 > Lectures; participation in the class.
+> [Click for further details](https://drive.google.com/drive/folders/1Fn-wdRY7YgJsJGpJqLk49VK-pXaYHQp_)
 
 
 
