@@ -3,7 +3,7 @@
 @def tags = ["syntax", "code"]
 
 # 🪟️ Gamma-ray Astrophysics in the Multi-messenger Context
-## [🟢 Pro. Elisabetta Bissaldi](http://web2.ba.infn.it/~bissaldi//)
+## [🟢 Prof. Elisabetta Bissaldi](http://web2.ba.infn.it/~bissaldi//)
 @@center ![](/assets/Bissaldi.jpg )  @@ 
 
 [Zoom link](https://us02web.zoom.us/j/83555657710)   PWD: 726021
