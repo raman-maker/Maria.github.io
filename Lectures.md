@@ -10,7 +10,7 @@
 
 
 ~~~
-<iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=1&bgcolor=%23A79B8E&ctz=Asia%2FTokyo&mode=WEEK&src=YmRlc2ltb25lQHVuaXNhLml0&color=%233F51B5" style="border:solid 1px #777" width="800" height="500" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://calendar.google.com/calendar/embed?height=340&wkst=1&bgcolor=%23009688&ctz=Asia%2FTokyo&mode=AGENDA&showPrint=0&showCalendars=0&showTz=1&src=YmRlc2ltb25lQHVuaXNhLml0&color=%233F51B5" style="border:solid 1px #777" width="800" height="340" frameborder="0" scrolling="no"></iframe>
 ~~~
 ### Course content 🗒️
 
